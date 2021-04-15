@@ -10,13 +10,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e82dafee-ee7c-400f-b107-284654c53dda" name="Default Changelist" comment="Add laravel ui bootstrap">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="e82dafee-ee7c-400f-b107-284654c53dda" name="Default Changelist" comment="Add package &amp; composer lock and ide helper to .gitignore">
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/products/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/task-vizual-tech.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/task-vizual-tech.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Console/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,6 +151,9 @@
       <path value="$PROJECT_DIR$/vendor/seld/phar-utils" />
       <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-oracle" />
+      <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-html" />
     </include_path>
   </component>
   <component name="ProjectId" id="1rACjfmwwUKKrKe0JnhHbYiCzgh" />
@@ -169,6 +174,7 @@
       <recent name="E:\OSPanel 5.3.7\OpenServer\domains\task-vizual-tech\storage\app\data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OSPanel 5.3.7\OpenServer\domains\task-vizual-tech\resources\views\products" />
       <recent name="E:\OSPanel 5.3.7\OpenServer\domains\task-vizual-tech\storage\app" />
     </key>
   </component>
@@ -188,7 +194,7 @@
       <updated>1618409647704</updated>
       <workItem from="1618409659205" duration="1709000" />
       <workItem from="1618411450847" duration="56000" />
-      <workItem from="1618411702520" duration="12405000" />
+      <workItem from="1618411702520" duration="25180000" />
     </task>
     <task id="LOCAL-00001" summary="Create models &amp; migrations">
       <created>1618412079245</created>
@@ -232,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618424053098</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add package &amp; composer lock and ide helper to .gitignore">
+      <created>1618424607087</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618424607087</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +269,17 @@
     <MESSAGE value="Add laravel ide helper" />
     <MESSAGE value="Add fillable fields for models" />
     <MESSAGE value="Add laravel ui bootstrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add laravel ui bootstrap" />
+    <MESSAGE value="Add package &amp; composer lock and ide helper to .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add package &amp; composer lock and ide helper to .gitignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="727" y="222" key="RollbackChangesDialog" timestamp="1618424713085">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="727" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618424713085" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1618467648775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618467648775" />
   </component>
 </project>

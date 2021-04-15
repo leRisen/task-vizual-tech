@@ -10,13 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e82dafee-ee7c-400f-b107-284654c53dda" name="Default Changelist" comment="Add command for import products from price list + daily cron for it">
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+    <list default="true" id="e82dafee-ee7c-400f-b107-284654c53dda" name="Default Changelist" comment="Oops, miss files by mix after build">
       <change afterPath="$PROJECT_DIR$/resources/views/products/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -192,7 +188,7 @@
       <updated>1618409647704</updated>
       <workItem from="1618409659205" duration="1709000" />
       <workItem from="1618411450847" duration="56000" />
-      <workItem from="1618411702520" duration="26317000" />
+      <workItem from="1618411702520" duration="27365000" />
     </task>
     <task id="LOCAL-00001" summary="Create models &amp; migrations">
       <created>1618412079245</created>
@@ -250,7 +246,28 @@
       <option name="project" value="LOCAL" />
       <updated>1618472499235</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add datatables with html builder">
+      <created>1618473647780</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1618473647780</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Remove example welcome.blade, create layout app">
+      <created>1618473804344</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1618473804344</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Oops, miss files by mix after build">
+      <created>1618473916774</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1618473916774</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,7 +293,10 @@
     <MESSAGE value="Add laravel ui bootstrap" />
     <MESSAGE value="Add package &amp; composer lock and ide helper to .gitignore" />
     <MESSAGE value="Add command for import products from price list + daily cron for it" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add command for import products from price list + daily cron for it" />
+    <MESSAGE value="Add datatables with html builder" />
+    <MESSAGE value="Remove example welcome.blade, create layout app" />
+    <MESSAGE value="Oops, miss files by mix after build" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oops, miss files by mix after build" />
   </component>
   <component name="WindowStateProjectService">
     <state x="727" y="222" key="RollbackChangesDialog" timestamp="1618424713085">
